@@ -1,0 +1,3 @@
+Ticker,Buy Price,Quantity,Sample Current Price,Invested Amount,Market Value,Profit/Loss,Gain/Loss (%)
+AAPL,200.0,2,230.0,400.0,460.0,60.0,15.0
+MSFT,480.0,1,510.0,480.0,510.0,30.0,6.25
