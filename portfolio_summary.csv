@@ -1,2 +1,2 @@
-Ticker,Buy Price,Quantity,Current Price,Invested Amount,Market Value,Profit/Loss,Gain/Loss (%)
-AAPL,200.0,2,339.5,400.0,679.0,279.0,69.75
+Symbol,Security,GICS Sector,GICS Sub-Industry,Headquarters Location,Date added,CIK,Founded,Buy Price,Quantity,Current Price,Invested Amount,Market Value,Profit/Loss,Gain/Loss (%)
+AAPL,Apple Inc.,Information Technology,"Technology Hardware, Storage & Peripherals","Cupertino, California",1982-11-30,320193,1977,200.0,2,345.01,400.0,690.01,290.01,72.5
